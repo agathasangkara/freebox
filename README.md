@@ -1,6 +1,18 @@
- </details>
+ # Use
+
+1. pkg upgrade && update
+2. pkg install php
+3. pkg install git
+4. git clone https://github.com/agathasangkara/freebox
+5. cd freebox
+6. php index.php
+
+![Screenshot_20230202-130308305 (1)](https://user-images.githubusercontent.com/115182304/216245095-43fbdeaa-4e3c-4d0e-b351-bccfbd4539fe.jpg)
+
+
+</details>
 <details>
-    <summary><b> Key Hubungi kesini </b></summary><br/>
+    <summary><b> KEY HUB KESINI </b></summary><br/>
 
  <a href="https://www.facebook.com/profile.php?id=100086675272346"> Facebook</a> OR
  <a href="https://t.me/agathasangkara"> Telegram</a>
@@ -16,3 +28,8 @@
 
 </p>
 </details>
+
+
+# Catatan
+
+Edit File freebox.json untuk dan tambahkan link referral disana
