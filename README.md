@@ -1,8 +1,4 @@
-GAS RECODE LAGI ABANGKU TERUS EDIT AUTHOR GANTI NAMA SENDIRI BIAR KEREN YAGESYA, SEMANGAT BUAT RECODE BIAR JADI PRO PUH SEPUH
- 
- 
- 
- # Cara Pakai
+# Cara Pakai
 
 1. pkg upgrade && update
 2. pkg install php
@@ -36,4 +32,4 @@ GAS RECODE LAGI ABANGKU TERUS EDIT AUTHOR GANTI NAMA SENDIRI BIAR KEREN YAGESYA,
 
 # Catatan
 
-Edit File freebox.json untuk dan tambahkan link referral disana
+Edit File freebox.json untuk dan tambahkan link referral dan APIKEY disana
